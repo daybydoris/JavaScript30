@@ -5,3 +5,7 @@
 [https://javascript30.com/](https://javascript30.com/)
 
 하루에 한 개 씩 바닐라 자바스크립트로 만든 결과물을 올립니다.
+
+- Day 01 JS Drum Kit [Demo](https://graphicnovel.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+
+
