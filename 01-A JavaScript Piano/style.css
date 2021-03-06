@@ -1,0 +1,59 @@
+html, body{
+    margin:0;
+    box-sizing: border-box;
+    height:100vh;
+}
+
+body{
+    background: url(background.jpg) bottom center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys{
+    display: flex;
+    width:416px;
+    margin:0 auto;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background:#fff;
+
+}
+
+.key{
+    width:50px;
+    height:200px;
+    border:1px solid #222;
+    position:relative;
+    transition: all .1s ease;
+
+}
+
+.playing{
+    box-shadow: inset 0.2em -0.3em 10px 5px rgba(0,0,0,0.5);
+}
+
+.sound{
+    display: flex;
+    height:95%;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.sharp{
+    position:absolute;
+    left:50%; top:0;
+    transform: translateX(50%);
+    width:25px;
+    height:60%;
+    background:#000;
+}
+
+h1, p{
+    color:#fff;
+}
