@@ -14,4 +14,6 @@
 - Day 01 JS Drum Kit [Demo](https://graphicnovel.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
   - Day 01-A - JS Piano [Demo](https://graphicnovel.github.io/JavaScript30/01-A%20JavaScript%20Piano/index.html)
 - Day 02 JS and CSS Clock [Demo](https://graphicnovel.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index.html)
+- Day 03 CSS Variables [Demo](https://graphicnovel.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html)
+  - Day 03-A Simple Image Editor [Demo](https://graphicnovel.github.io/JavaScript30/03-A%20Simple%20Image%20Editor/index.html)
 
