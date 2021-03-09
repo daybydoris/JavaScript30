@@ -1,0 +1,21 @@
+:root {
+    --brightness: 1;
+    --contrast: 100%;
+    --hue: 0deg;
+    --saturate: 1;
+    --sepia: 0%;
+}
+
+input[name=imgSelector]{
+    margin:20px 0;
+}
+
+.imgBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.imgBox img {
+    width:60%;
+    filter: brightness(var(--brightness)) contrast(var(--contrast)) hue-rotate(var(--hue)) saturate(var(--saturate)) sepia(var(--sepia));
+}
