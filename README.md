@@ -17,3 +17,4 @@
 - Day 03 CSS Variables [Demo](https://graphicnovel.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html)
   - Day 03-A Simple Image Editor [Demo](https://graphicnovel.github.io/JavaScript30/03-A%20Simple%20Image%20Editor/index.html)
 - Day 04 Array Cardio Day 1 [Demo](https://graphicnovel.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
+- Day 05 Flex Panel Gallery [Demo](https://graphicnovel.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
