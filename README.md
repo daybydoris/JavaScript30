@@ -19,3 +19,4 @@
 - Day 04 Array Cardio Day 1 [Demo](https://graphicnovel.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
 - Day 05 Flex Panel Gallery [Demo](https://graphicnovel.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index.html)
 - Day 06 Type Ahead [Demo](https://graphicnovel.github.io/JavaScript30/06%20-%20Type%20Ahead/index.html)
+- Day 07 Array Cardio Day 2 [Demo](https://graphicnovel.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index.html)
